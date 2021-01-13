@@ -1,0 +1,29 @@
+
+
+nav {
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: center;
+    width: 960px;
+}
+ul {
+    float: inline-end;
+    list-style-type: none;
+    padding: 0%;
+    
+    
+
+}
+
+li {
+    float: none !important;
+    display: inline-block;
+   
+    
+}
+
+li a {
+    padding: 10px;
+    
+}
